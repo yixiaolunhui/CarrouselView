@@ -1,9 +1,12 @@
 # CarrouselView
 旋转木马优化版，适合超过5个以上的旋转view界面
+如果你只需要3-4个的切换的话还是采用这个吧：
+https://github.com/dalong982242260/LoopRotarySwitch
 ##效果
- ![image](https://github.com/dalong982242260/TwoBalCollisionProgressDialog/blob/master/screenshot/twodialog.gif)       
+ ![image](https://github.com/dalong982242260/CarrouselView/blob/master/screenshot/carouselview.gif)       
    
-##本代码借鉴于：http://www.codeproject.com/Articles/146145/Android-3D-Carousel，修改而来
+##本代码借鉴于：http://www.codeproject.com/Articles/146145/Android-3D-Carousel
+              修改而来
 
 ##优点：
 1、布局可以随意自定义，不受只是图片的限制。
